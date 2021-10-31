@@ -1,0 +1,27 @@
+{
+  "name": "otupso",
+  "version": "1.0.0",
+  "description": "Site da Otupso",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otupso/otupso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otupso/otupso/issues"
+  },
+  "homepage": "https://github.com/otupso/otupso#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
