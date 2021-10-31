@@ -1,4 +1,6 @@
 ![Licença](https://img.shields.io/github/license/otupso/otupso?color=%231167B1&style=flat-square)
+![Stars](https://img.shields.io/github/stars/otupso/otupso?color=%231167b1&style=flat-square)
+![Forks](https://img.shields.io/github/forks/otupso/otupso?color=1167b1&style=flat-square)
 
 # Otupso
 A Otupso é um projeto criado por estudantes para o desenvolvimento de software. Visando o desenvolvimento do time, estamos sempre buscando uma forma de melhorar nossas skills e compartilhar ideias de novos projetos. Procuramos oferecer a melhor experiência ao usuário final, por isso pensamos desde o desenvolvimento do projeto até como deixá-lo melhor.
